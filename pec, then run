@@ -1,0 +1,30 @@
+[33mcommit 2a20622822d583343aa337856c90db27f2fa6afc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 29cb9db 960152b
+Author: christopher kumwenda <kumwendachristopher954@gmail.com>
+Date:   Fri Feb 13 18:10:55 2026 +0100
+
+    conflict resolved
+
+[33mcommit 29cb9db3ebf45a58e60fbfaeb0d456cad25e9491[m[33m ([m[1;31morigin/feature-B[m[33m, [m[1;32mfeature-B[m[33m)[m
+Author: christopher kumwenda <kumwendachristopher954@gmail.com>
+Date:   Fri Feb 13 17:51:28 2026 +0100
+
+    successfully added my name to project team file
+
+[33mcommit 960152ba099e111d8d5092028c3539913d4714f4[m[33m ([m[1;31morigin/feature-A[m[33m)[m
+Author: Elisha Lungu <lunguelisha3@gmail.com>
+Date:   Fri Feb 13 17:07:38 2026 +0100
+
+    Added team lead-Developer A
+
+[33mcommit 698d30c3df0ac985471417a3b65b7e75a8db58df[m
+Author: Elisha Lungu <lunguelisha3@gmail.com>
+Date:   Fri Feb 13 18:00:34 2026 +0200
+
+    initial commit
+
+[33mcommit 519ec094a151586003a3fb346bdb4a5b54307452[m
+Author: Elisha-11 <lunguelisha3@gmail.com>
+Date:   Fri Feb 13 16:33:54 2026 +0200
+
+    Initial commit
